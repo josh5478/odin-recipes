@@ -1,1 +1,1 @@
-# odin-recipes
+The current project is to make a recipe website and I am using skills such as list making, images, and reference links to make this website possible.
